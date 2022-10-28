@@ -15,10 +15,11 @@ Want to know more about me? <a href="">Check out my portfolio</a>.
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braydoncoyer&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/DxAGhazali">
+<!-- <a href="https://github.com/DxAGhazali">
   <img align="center" style="margin:0.5rem; height:285px" src="https://github-readme-stats.vercel.app/api?username=dxaghazali&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="DxAGhazali GitHub Stats" />
 </a>
-
+ -->
+ 
 <h2>💻 Skills</h2>
 
 ![Codepen Badge](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=#3474eb&color=#3474eb)
