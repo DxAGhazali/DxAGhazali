@@ -1,12 +1,6 @@
 Hey there 👋
 
-<div style="
-  width: 300px;
-  background-color: lightblue;">
-
-<p> hallooo <p>
-
-</div>
+<img src="./banner.svg" alt="" />
 
 I’m Dexsa Muliana Ghazali, a Full Stack Developer building web applications. I’m passionate about User Experience, Responsive Design, and Accessibility.
 
