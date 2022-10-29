@@ -9,7 +9,8 @@ Want to know more about me? <a href="">Check out my portfolio</a>.
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=blue&color=blue)](https://instagram.com/dxa.m.ghazali)
 [![Codepen Badge](https://img.shields.io/badge/Codepen-Profile-informational?style=flat&logo=codepen&logoColor=black&color=black)](https://instagram.com/dxa.m.ghazali)
 
-<h2>📈 GitHub Stats</h2>
+<br />
+<img src="./stat.svg" alt="" width="100%"/>
 
 <a href="https://github.com/braydoncoyer">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braydoncoyer&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -20,10 +21,11 @@ Want to know more about me? <a href="">Check out my portfolio</a>.
 </a>
  -->
  
-
+<br />
+<br />
+<br />
+<img src="./skill.svg" alt="" width="100%"/>
  
-<h2>💻 Skills</h2>
- <img src="./skill.svg" alt="" width="100%"/>
 ![Codepen Badge](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=#3474eb&color=#3474eb)
 ![Codepen Badge](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=#3474eb&color=#3474eb)
 ![Codepen Badge](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=#3474eb&color=#3474eb)
