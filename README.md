@@ -1,6 +1,14 @@
 Hey there 👋
 
-I’m Dexsa Muliana Ghazali, a full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end and back-end development.
+<div style="
+  width: 300px;
+  background-color: lightblue;">
+
+<p> hallooo <p>
+
+</div>
+
+I’m Dexsa Muliana Ghazali, a Full Stack Developer building web applications. I’m passionate about User Experience, Responsive Design, and Accessibility.
 
 Want to know more about me? <a href="">Check out my portfolio</a>.
 
