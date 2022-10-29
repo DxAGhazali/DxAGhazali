@@ -20,8 +20,10 @@ Want to know more about me? <a href="">Check out my portfolio</a>.
 </a>
  -->
  
-<h2>💻 Skills</h2>
 
+ 
+<h2>💻 Skills</h2>
+ <img src="./skill.svg" alt="" width="100%"/>
 ![Codepen Badge](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=#3474eb&color=#3474eb)
 ![Codepen Badge](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=#3474eb&color=#3474eb)
 ![Codepen Badge](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=#3474eb&color=#3474eb)
