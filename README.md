@@ -4,22 +4,25 @@ a Full Stack Developer building web applications. I’m passionate about User Ex
 
 Want to know more about me? <a href="">Check out my portfolio</a>.
 
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Profile-informational?flat&logo=pagekit&logoColor=white&color=white)](https://instagram.com/dxa.m.ghazali)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Profile-informational?flat&logo=pagekit&logoColor=white&color=white)](#)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=important&color=important)](https://instagram.com/dxa.m.ghazali)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=blue&color=blue)](https://instagram.com/dxa.m.ghazali)
-[![Codepen Badge](https://img.shields.io/badge/Codepen-Profile-informational?style=flat&logo=codepen&logoColor=black&color=black)](https://instagram.com/dxa.m.ghazali)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=blue&color=blue)](#)
+[![Codepen Badge](https://img.shields.io/badge/Codepen-Profile-informational?style=flat&logo=codepen&logoColor=black&color=black)](#)
 
 <br />
 <img src="./stat.svg" alt="" width="100%"/>
 
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braydoncoyer&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/DxAGhazali">
+  <img align="center"  width="100%" style="margin:0.5rem;" src="https://github-readme-stats.vercel.app/api?username=dxaghazali&show_icons=true&theme=transparent" alt="DxAGhazali GitHub Stats" />
 </a>
 
-<!-- <a href="https://github.com/DxAGhazali">
-  <img align="center" style="margin:0.5rem; height:285px" src="https://github-readme-stats.vercel.app/api?username=dxaghazali&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="DxAGhazali GitHub Stats" />
+<br /><br />
+
+<a href="https://github.com/dxaghazali">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxaghazali&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
- -->
+
+
  
 <br />
 <br />
