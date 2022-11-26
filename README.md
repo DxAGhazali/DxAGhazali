@@ -1,6 +1,6 @@
 <img src="./banner.svg" alt="" width="100%"/>
 
-a Full Stack Developer building web applications. I’m passionate about User Experience, Responsive Design, and Accessibility.
+a Full Stack Developer building web applications and mobile applications. I’m passionate about User Experience, Responsive Design, and Accessibility.
 
 Want to know more about me? <a href="">Check out my portfolio</a>.
 
