@@ -6,7 +6,7 @@ Want to know more about me? <a href="">Check out my portfolio</a>.
 
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Profile-informational?flat&logo=pagekit&logoColor=white&color=white)](#)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=important&color=important)](https://instagram.com/dxa.m.ghazali)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=blue&color=blue)](#)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=blue&color=blue)](https://www.linkedin.com/in/dexsa-muliana-ghazali-324241255/)
 [![Codepen Badge](https://img.shields.io/badge/Codepen-Profile-informational?style=flat&logo=codepen&logoColor=black&color=black)](#)
 
 <br />
